@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<script src="__PUBLIC__/js/jquery-2.2.4.min.js" ></script>
+	<body>
+		<foreach  name="time" item="value" key="key">
+				<div>
+					<div class="today"><{$time[$key]}></div>
+					<br />
+					<foreach  name="message" item="vvalue" key="vkey">
+						<if condition="($message[$vkey]['YW_UserConsume_Time'][0] eq $time[$key])">
+							<div>YW_Staff_Name:<{$message[$vkey]["YW_User_Name"]}></div>
+							<div>YW_Project_Name:<{$message[$vkey]["YW_Project_Name"]}></div>
+							<div>YW_Project_Name:<{$message[$vkey]["YW_Project_Cost_Money"]}></div>
+							<div>YW_UserConsume_Time:<{$message[$vkey]["YW_UserConsume_Time"][1]}></div>
+							
+							<br />
+						</else>
+							
+						</if>
+						
+					</foreach>
+				</div>
+		</foreach>
+		
+			
+	</body>
+	
+	<script type="text/javascript">
+			$(document).ready(function(){
+				var mydate = new Date();
+				var month = mydate.getMonth()+1;
+				if(month < 10){
+					month = "0"+ month;
+				}
+				var day_1 = mydate.getDate();
+				var time = mydate.getFullYear()+"-"+month+"-"+day_1;
+				var div_len = $(".today").length;
+				for(var i = 0; i< div_len; i++){
+					var today = $(".today").eq(i).html();
+					if(time == today){
+						$(".today").eq(i).html("今天");
+					}
+				}
+				
+				for(var i = 0; i< div_len; i++){
+					var today = $(".today").eq(i).html();
+					day_1 = mydate.getDate()-1;
+					var time = mydate.getFullYear()+"-"+month+"-"+day_1;
+					if(time == today){
+						$(".today").eq(i).html("昨天");
+					}
+				}
+				
+				for(var i = 0; i< div_len; i++){
+				
+				}
+				
+				
+
+			});
+	</script>
+</html>

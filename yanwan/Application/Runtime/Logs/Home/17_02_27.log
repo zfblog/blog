@@ -1,0 +1,1046 @@
+[ 2017-02-27T00:19:41+08:00 ] 101.226.65.104 /yanwan/index.php/home/project/store_manager_delete%252525252525252525252526project_id%25252525252525252525253D16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009020s ]
+ERR: 非法操作:store_manager_delete%2525252525252525252526project_id%252525252525252525253D16
+
+[ 2017-02-27T03:04:36+08:00 ] 183.57.53.196 /yanwan/index.php/home/project/store_manager_delete%25252525252525252525252526project_id%2525252525252525252525253D16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+ERR: 非法操作:store_manager_delete%252525252525252525252526project_id%25252525252525252525253D16
+
+[ 2017-02-27T03:04:46+08:00 ] 101.226.66.180 /yanwan/index.php/home/project/store_manager_delete%25252525252525252525252526project_id%2525252525252525252525253D16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+ERR: 非法操作:store_manager_delete%252525252525252525252526project_id%25252525252525252525253D16
+
+[ 2017-02-27T03:04:59+08:00 ] 117.94.94.149 /yanwan/index.php/home/project/store_manager_delete%25252525252525252525252526project_id%2525252525252525252525253D16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+ERR: 非法操作:store_manager_delete%252525252525252525252526project_id%25252525252525252525253D16
+
+[ 2017-02-27T04:33:38+08:00 ] 183.57.53.222 /yanwan/index.php/Home/Login/login?YW_User_Name%252525252525253D1%2525252525252526YW_User_Password%252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+NOTIC: [8] Undefined variable: userarr /usr/local/apache/htdocs/yanwan/Application/Home/Controller/LoginController.class.php 第 30 行.
+NOTIC: [8] Undefined variable: userarr /usr/local/apache/htdocs/yanwan/Application/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010083s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010268s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001481s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001574s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001637s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001692s ]
+
+[ 2017-02-27T04:33:48+08:00 ] 101.226.66.172 /yanwan/index.php/Home/Login/login?YW_User_Name%252525252525253D1%2525252525252526YW_User_Password%252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined variable: userarr /usr/local/apache/htdocs/yanwan/Application/Home/Controller/LoginController.class.php 第 30 行.
+NOTIC: [8] Undefined variable: userarr /usr/local/apache/htdocs/yanwan/Application/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000333s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000404s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004856s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-02-27T05:50:32+08:00 ] 124.161.128.53 /yanwan/index.php/home/project/store_manager_delete%2525252525252525252525252526project_id%252525252525252525252525253D16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+ERR: 非法操作:store_manager_delete%25252525252525252525252526project_id%2525252525252525252525253D16
+
+[ 2017-02-27T06:44:41+08:00 ] 101.226.64.177 /yanwan/index.php/Home/Login/login?YW_User_Name%25252525252525253D1%252525252525252526YW_User_Password%25252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+NOTIC: [8] Undefined variable: userarr /usr/local/apache/htdocs/yanwan/Application/Home/Controller/LoginController.class.php 第 30 行.
+NOTIC: [8] Undefined variable: userarr /usr/local/apache/htdocs/yanwan/Application/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008534s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008583s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000743s ]
+
+[ 2017-02-27T08:01:44+08:00 ] 183.57.53.177 /yanwan/index.php/home/project/store_manager_delete%252525252525252525252525252526project_id%25252525252525252525252525253D16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001347s ]
+ERR: 非法操作:store_manager_delete%2525252525252525252525252526project_id%252525252525252525252525253D16
+
+[ 2017-02-27T08:01:53+08:00 ] 61.151.226.199 /yanwan/index.php/home/project/store_manager_delete%252525252525252525252525252526project_id%25252525252525252525252525253D16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+ERR: 非法操作:store_manager_delete%2525252525252525252525252526project_id%252525252525252525252525253D16
+
+[ 2017-02-27T09:17:26+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_vip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+SQL: SELECT `YW_UserInfo_ID`,`YW_User_ID`,`YW_User_Name` FROM `yw_user_info`  [ RunTime:0.0045s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_user_info` LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT * FROM `yw_userconsume`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: jsoncallback /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001612s ]
+
+[ 2017-02-27T09:31:46+08:00 ] 101.226.65.107 /yanwan/index.php/Home/Login/login?YW_User_Name%2525252525252525253D1%25252525252525252526YW_User_Password%2525252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+NOTIC: [8] Undefined variable: userarr /usr/local/apache/htdocs/yanwan/Application/Home/Controller/LoginController.class.php 第 30 行.
+NOTIC: [8] Undefined variable: userarr /usr/local/apache/htdocs/yanwan/Application/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027043s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027122s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000672s ]
+
+[ 2017-02-27T10:07:31+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery1112004426915105432272_1488161251243&_=1488161251244
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0152s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2017-02-27T10:07:37+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery11120966633829055354_1488161257778&_=1488161257779
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-02-27T10:08:51+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111202447742256394967_1488161330836&_=1488161330837
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-02-27T10:14:21+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery1112007091789117174274_1488161661158&_=1488161661159
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-02-27T10:15:08+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111201303910613613255_1488161708183&_=1488161708184
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000593s ]
+
+[ 2017-02-27T10:16:23+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111207420575676390821_1488161783004&_=1488161783005
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000599s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000731s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-02-27T10:16:27+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111205660499206875225_1488161787340&_=1488161787341
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000657s ]
+
+[ 2017-02-27T10:18:04+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery1112006407939363270998_1488161884461&_=1488161884462
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000694s ]
+
+[ 2017-02-27T10:20:18+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111201762634554342153_1488162018136&_=1488162018137
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-02-27T10:20:18+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111207011474597361209_1488162018757&_=1488162018758
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2017-02-27T10:20:19+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery1112004074355730587764_1488162018941&_=1488162018942
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000548s ]
+
+[ 2017-02-27T10:20:30+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery1112004988718875373688_1488162030606&_=1488162030607
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000554s ]
+
+[ 2017-02-27T10:22:18+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery1112013533614675441386_1488162138276&_=1488162138277
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2017-02-27T10:22:31+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111204098873905484324_1488162150973&_=1488162150974
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-02-27T10:27:55+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery1112001825501358088677_1488162475178&_=1488162475179
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-02-27T10:28:21+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111208626887832205876_1488162500787&_=1488162500788
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000643s ]
+
+[ 2017-02-27T10:29:05+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111203274678814276768_1488162545551&_=1488162545552
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000950s ]
+
+[ 2017-02-27T10:30:12+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111205875171148099114_1488162612644&_=1488162612645
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000344s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000823s ]
+
+[ 2017-02-27T10:31:32+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111203140901436563581_1488162691933&_=1488162691934
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001756s ]
+
+[ 2017-02-27T10:31:33+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery1112042054740456995043_1488162693501&_=1488162693502
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-02-27T10:32:21+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111204736400559939937_1488162741596&_=1488162741597
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000733s ]
+
+[ 2017-02-27T10:33:36+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111200593406999006485_1488162816172&_=1488162816173
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000549s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000609s ]
+
+[ 2017-02-27T10:33:53+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111205678644705415066_1488162833139&_=1488162833140
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2017-02-27T10:43:37+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111206113659328100423_1488163417197&_=1488163417198
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000757s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2017-02-27T10:43:51+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery11120716844401281828_1488163431070&_=1488163431071
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000612s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000672s ]
+
+[ 2017-02-27T10:44:25+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery1112016754667491469766_1488163465327&_=1488163465328
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2017-02-27T10:44:32+08:00 ] 61.151.228.22 /yanwan/index.php/home/project/store_manager_delete%25252525252525252525252525252526project_id%2525252525252525252525252525253D16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+ERR: 非法操作:store_manager_delete%252525252525252525252525252526project_id%25252525252525252525252525253D16
+
+[ 2017-02-27T11:01:49+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery11120028927702456712723_1488164509208&_=1488164509209
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000712s ]
+
+[ 2017-02-27T11:04:36+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery11120263401105068624_1488164676116&_=1488164676117
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000594s ]
+
+[ 2017-02-27T11:05:03+08:00 ] 117.136.24.178 /yanwan/index.php/home/project/store_manager_project
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014188s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014287s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-02-27T11:05:13+08:00 ] 101.226.33.220 /yanwan/index.php/home/project/store_manager_project
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007355s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007404s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-02-27T11:05:16+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery1112024976641670138822_1488164716555&_=1488164716556
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000567s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000630s ]
+
+[ 2017-02-27T11:05:17+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery1112017486877702910042_1488164717297&_=1488164717298
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000650s ]
+
+[ 2017-02-27T11:05:18+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111203133258806205341_1488164717897&_=1488164717898
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000623s ]
+
+[ 2017-02-27T11:08:08+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111204699064768430965_1488164888202&_=1488164888203
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0017s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000747s ]
+
+[ 2017-02-27T11:12:36+08:00 ] 117.136.24.178 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery11120936087878420949_1488165157479&_=1488165157480
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-02-27T11:14:27+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111205838842210359871_1488165267363&_=1488165267364
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-02-27T11:14:45+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111203556668378878385_1488165284743&_=1488165284744
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2017-02-27T11:15:07+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111207607173540163785_1488165307048&_=1488165307049
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+
+[ 2017-02-27T11:17:52+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery1112033735223789699376_1488165472130&_=1488165472131
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000703s ]
+
+[ 2017-02-27T11:22:01+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111206319453335056417_1488165720693&_=1488165720694
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000551s ]
+
+[ 2017-02-27T11:33:56+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery11120058096889388093764_1488166436052&_=1488166436053
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000817s ]
+
+[ 2017-02-27T11:34:00+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery1112051407766927995_1488166440200&_=1488166440201
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-02-27T11:34:02+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111207996340921714988_1488166442269&_=1488166442270
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2017-02-27T11:55:10+08:00 ] 101.226.51.228 /yanwan/index.php/Home/Consume/user_vip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+SQL: SELECT `YW_UserInfo_ID`,`YW_User_ID`,`YW_User_Name` FROM `yw_user_info`  [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_user_info` LIMIT 1   [ RunTime:0.0039s ]
+SQL: SELECT * FROM `yw_userconsume`  [ RunTime:0.0068s ]
+NOTIC: [8] Undefined index: jsoncallback /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-02-27T11:58:41+08:00 ] 180.153.160.24 /yanwan/index.php/Home/Login/login?YW_User_Name%252525252525252525253D1%2525252525252525252526YW_User_Password%252525252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+NOTIC: [8] Undefined variable: userarr /usr/local/apache/htdocs/yanwan/Application/Home/Controller/LoginController.class.php 第 30 行.
+NOTIC: [8] Undefined variable: userarr /usr/local/apache/htdocs/yanwan/Application/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019302s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000666s ]
+
+[ 2017-02-27T13:03:45+08:00 ] 183.57.53.196 /yanwan/index.php/home/project/store_manager_delete%2525252525252525252525252525252526project_id%252525252525252525252525252525253D16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001163s ]
+ERR: 非法操作:store_manager_delete%25252525252525252525252525252526project_id%2525252525252525252525252525253D16
+
+[ 2017-02-27T13:40:16+08:00 ] 183.57.53.222 /yanwan/index.php/home/project/store_manager_project?jsoncallback%3DjQuery111207420575676390821_1488161783004%26_%3D1488161783005
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0075s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017054s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017162s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000913s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002160s ]
+
+[ 2017-02-27T14:30:18+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery11120024062179407257744_1488177017354&_=1488177017355
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001142s ]
+
+[ 2017-02-27T15:41:02+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery11120024062179407257744_1488177017354&_=1488177017356
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001055s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0045s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001305s ]
+
+[ 2017-02-27T15:41:03+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery11120024062179407257744_1488177017354&_=1488177017357
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002888s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000696s ]
+
+[ 2017-02-27T15:41:07+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery11120026570738710305575_1488181265868&_=1488181265869
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000646s ]
+
+[ 2017-02-27T15:41:09+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery11120026570738710305575_1488181265868&_=1488181265870
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001685s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2017-02-27T15:41:09+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery11120026570738710305575_1488181265868&_=1488181265871
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0025s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000943s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001207s ]
+
+[ 2017-02-27T15:41:10+08:00 ] 175.13.255.164 /yanwan/index.php/home/project/store_manager_project?jsoncallback=jQuery111206384723871903422_1488181270178&_=1488181270179
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000665s ]
+
+[ 2017-02-27T15:41:36+08:00 ] 183.57.53.197 /yanwan/index.php/home/project/store_manager_project?jsoncallback%3DjQuery111206319453335056417_1488165720693%26_%3D1488165720694
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=1 )  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=2 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=3 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_beautyitemlist_project` WHERE ( yw_largeclass_id=4 )  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000289s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011724s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011823s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000683s ]
+
+[ 2017-02-27T16:14:46+08:00 ] 101.226.51.230 /yanwan/index.php/home/project/store_manager_delete%252525252525252525252525252525252526project_id%25252525252525252525252525252525253D16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+ERR: 非法操作:store_manager_delete%2525252525252525252525252525252526project_id%252525252525252525252525252525253D16
+

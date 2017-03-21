@@ -1,0 +1,1 @@
+a:7:{i:0;s:10:"YW_User_ID";i:1;s:12:"YW_User_Name";i:2;s:16:"YW_User_Password";i:3;s:13:"YW_User_Phone";i:4;s:12:"YW_User_Rank";s:3:"_pk";s:10:"YW_User_ID";s:5:"_type";a:5:{s:10:"YW_User_ID";s:7:"int(20)";s:12:"YW_User_Name";s:11:"varchar(20)";s:16:"YW_User_Password";s:11:"varchar(10)";s:13:"YW_User_Phone";s:11:"varchar(50)";s:12:"YW_User_Rank";s:11:"varchar(11)";}}

@@ -1,0 +1,1703 @@
+[ 2017-02-23T01:46:02+08:00 ] 101.226.64.177 /yanwan/index.php/Home/Userinfo/userinfoupdata?YW_User_ID%2525252525253D1%25252525252526tablename%2525252525253Dyw_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-02-23T02:19:15+08:00 ] 101.226.64.174 /yanwan/index.php/Home/Userinfo/userfinfoshowone%25252525252525EF%25252525252525BC%252525252525259F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-02-23T02:19:24+08:00 ] 117.185.27.113 /yanwan/index.php/Home/Userinfo/userfinfoshowone%25252525252525EF%25252525252525BC%252525252525259F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-02-23T02:28:07+08:00 ] 101.226.33.228 /yanwan/index.php/Home/Userinfo/skininfoshow?YW_User_ID%2525252525252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-02-23T04:39:09+08:00 ] 101.226.33.203 /yanwan/index.php/Home/Userinfo/userfinfoshow/?YW_User_ID%25252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001179s ]
+
+[ 2017-02-23T04:48:34+08:00 ] 61.151.226.16 /yanwan/index.php/Home/Userinfo/userfinfoshow?YW_User_ID%25252525252525252525253D1%252525252525252525252526tablename%25252525252525252525253Dyw_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+
+[ 2017-02-23T05:08:27+08:00 ] 101.226.99.197 /yanwan/index.php/Home/Userinfo/userfinfoshowone%2525252525252525EF%2525252525252525BC%25252525252525259F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-02-23T05:23:34+08:00 ] 101.226.64.174 /yanwan/index.php/Home/Userinfo/skininfoshow?YW_User_ID%252525252525252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+
+[ 2017-02-23T05:23:43+08:00 ] 101.226.33.223 /yanwan/index.php/Home/Userinfo/skininfoshow?YW_User_ID%252525252525252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-02-23T06:53:41+08:00 ] 101.226.125.16 /yanwan/index.php/Home/Userinfo/userfinfoshow?YW_User_ID%2525252525252525252525253D1%25252525252525252525252526tablename%2525252525252525252525253Dyw_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+
+[ 2017-02-23T06:55:51+08:00 ] 101.226.64.174 /yanwan/index.php/Home/Userinfo/userinfoupdata?YW_User_ID%252525252525253D1%2525252525252526tablename%252525252525253Dyw_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-02-23T06:56:01+08:00 ] 101.226.89.120 /yanwan/index.php/Home/Userinfo/userinfoupdata?YW_User_ID%252525252525253D1%2525252525252526tablename%252525252525253Dyw_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000799s ]
+
+[ 2017-02-23T07:07:29+08:00 ] 101.226.51.226 /yanwan/index.php/Home/Userinfo/userfinfoshow/?YW_User_ID%2525252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-02-23T08:43:57+08:00 ] 101.226.65.107 /yanwan/index.php/Home/Userinfo/userfinfoshowone%252525252525252525EF%252525252525252525BC%2525252525252525259F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-02-23T09:04:52+08:00 ] 101.226.66.172 /yanwan/index.php/Home/Userinfo/userfinfoshow?YW_User_ID%252525252525252525252525253D1%2525252525252525252525252526tablename%252525252525252525252525253Dyw_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-02-23T10:05:49+08:00 ] 112.90.82.218 /yanwan/index.php/Home/Userinfo/userfinfoshow/?YW_User_ID%252525252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+
+[ 2017-02-23T10:05:58+08:00 ] 101.226.89.119 /yanwan/index.php/Home/Userinfo/userfinfoshow/?YW_User_ID%252525252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-02-23T11:11:44+08:00 ] 180.153.214.188 /yanwan/index.php/Home/Userinfo/userfinfoshowone%25252525252525252525EF%25252525252525252525BC%252525252525252525259F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-02-23T11:34:16+08:00 ] 101.226.66.187 /yanwan/index.php/Home/Userinfo/userfinfoshow?YW_User_ID%25252525252525252525252525253D1%252525252525252525252525252526tablename%25252525252525252525252525253Dyw_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-02-23T11:34:16+08:00 ] 101.226.99.196 /yanwan/index.php/Home/Userinfo/userfinfoshow?YW_User_ID%25252525252525252525252525253D1%252525252525252525252525252526tablename%25252525252525252525252525253Dyw_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-02-23T11:34:16+08:00 ] 101.226.68.197 /yanwan/index.php/Home/Userinfo/userfinfoshow?YW_User_ID%25252525252525252525252525253D1%252525252525252525252525252526tablename%25252525252525252525252525253Dyw_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-02-23T11:34:16+08:00 ] 112.65.193.13 /yanwan/index.php/Home/Userinfo/userfinfoshow?YW_User_ID%25252525252525252525252525253D1%252525252525252525252525252526tablename%25252525252525252525252525253Dyw_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-02-23T11:38:56+08:00 ] 101.226.61.207 /yanwan/index.php/Home/Userinfo/skininfoshow?YW_User_ID%25252525252525252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-02-23T11:38:56+08:00 ] 180.153.206.18 /yanwan/index.php/Home/Userinfo/skininfoshow?YW_User_ID%25252525252525252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+
+[ 2017-02-23T11:38:56+08:00 ] 101.226.66.173 /yanwan/index.php/Home/Userinfo/skininfoshow?YW_User_ID%25252525252525252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+
+[ 2017-02-23T11:38:56+08:00 ] 101.226.33.240 /yanwan/index.php/Home/Userinfo/skininfoshow?YW_User_ID%25252525252525252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-02-23T13:16:51+08:00 ] 180.153.212.13 /yanwan/index.php/Home/Userinfo/userfinfoshow/?YW_User_ID%25252525252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-02-23T14:14:54+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/time_show?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+SQL: SHOW COLUMNS FROM `staff_performance` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `staff_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 131 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000769s ]
+
+[ 2017-02-23T14:15:18+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/time_show?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+SQL: SELECT * FROM `staff_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 131 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-02-23T14:15:23+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/time_show?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+SQL: SELECT * FROM `staff_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 131 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-02-23T14:15:29+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_xf?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `user_performance` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `user_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 177 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-02-23T14:17:13+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_vip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+SQL: SELECT `YW_UserInfo_ID`,`YW_User_ID`,`YW_User_Name` FROM `yw_user_info`  [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_user_info` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_userconsume`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: YW_UserConsume_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 19 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 19 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 19 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 19 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 19 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 19 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 19 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 19 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 19 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 19 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 19 行.
+NOTIC: [8] Undefined index: jsoncallback /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-02-23T14:17:23+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/staff_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php on line 44 and defined /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1740 行.
+NOTIC: [8] Undefined variable: field /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1741 行.
+NOTIC: [8] Undefined variable: field /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1751 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_staff_info` LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php on line 49 and defined /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1740 行.
+NOTIC: [8] Undefined variable: field /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1741 行.
+NOTIC: [8] Undefined variable: field /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1751 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_userconsume` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `YW_Staffinfo_ID`,`YW_Staff_ID`,`YW_Staff_Name` FROM `yw_staff_info`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: jsoncallback /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 50 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-02-23T14:17:33+08:00 ] 180.153.206.17 /yanwan/index.php/Home/Consume/staff_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php on line 44 and defined /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1740 行.
+NOTIC: [8] Undefined variable: field /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1741 行.
+NOTIC: [8] Undefined variable: field /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1751 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_staff_info` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php on line 49 and defined /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1740 行.
+NOTIC: [8] Undefined variable: field /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1741 行.
+NOTIC: [8] Undefined variable: field /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1751 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_userconsume` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `YW_Staffinfo_ID`,`YW_Staff_ID`,`YW_Staff_Name` FROM `yw_staff_info`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: jsoncallback /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 50 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000947s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001023s ]
+
+[ 2017-02-23T14:17:33+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/show_user_consume
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 93 行.
+SQL: SELECT `YW_User_ID`,`YW_User_Name`,`YW_User_HeadPic` FROM `yw_user_info` WHERE ( YW_User_ID = 1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_userconsume` WHERE ( YW_User_ID = 1 and YW_Staff_ID = 1 )  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `yw_beautyitemlist_project` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0004s ]
+ERR: 模板不存在:./Application/Home/View/Consume/text.html
+
+[ 2017-02-23T14:17:43+08:00 ] 180.153.206.24 /yanwan/index.php/Home/Consume/show_user_consume
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 93 行.
+SQL: SELECT `YW_User_ID`,`YW_User_Name`,`YW_User_HeadPic` FROM `yw_user_info` WHERE ( YW_User_ID = 1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_userconsume` WHERE ( YW_User_ID = 1 and YW_Staff_ID = 1 )  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0006s ]
+ERR: 模板不存在:./Application/Home/View/Consume/text.html
+
+[ 2017-02-23T14:17:46+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/show_user_consume?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 93 行.
+SQL: SELECT `YW_User_ID`,`YW_User_Name`,`YW_User_HeadPic` FROM `yw_user_info` WHERE ( YW_User_ID = 1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_userconsume` WHERE ( YW_User_ID = 1 and YW_Staff_ID = 1 )  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-02-23T14:18:18+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/time_show?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000362s ]
+SQL: SELECT * FROM `staff_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 131 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000659s ]
+
+[ 2017-02-23T14:18:31+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_xf?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+SQL: SELECT * FROM `user_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 162 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 171 行.
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 177 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-02-23T14:19:36+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/time_show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+SQL: SELECT * FROM `staff_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 131 行.
+
+[ 2017-02-23T14:19:46+08:00 ] 180.153.205.252 /yanwan/index.php/Home/Consume/time_show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000352s ]
+SQL: SELECT * FROM `staff_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 131 行.
+
+[ 2017-02-23T14:19:58+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/time_show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000355s ]
+SQL: SELECT * FROM `staff_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 131 行.
+
+[ 2017-02-23T14:21:12+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/time_show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SELECT * FROM `staff_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 115 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined index: YW_Staff_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 124 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 125 行.
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 130 行.
+
+[ 2017-02-23T14:23:45+08:00 ] 101.226.66.187 /yanwan/index.php/Home/Userinfo/userfinfoshow?YW_User_ID%2525252525252525252525252525253D1%25252525252525252525252525252526tablename%2525252525252525252525252525253Dyw_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-02-23T14:24:44+08:00 ] 180.153.214.198 /yanwan/index.php/Home/Userinfo/userfinfoshowone%2525252525252525252525EF%2525252525252525252525BC%25252525252525252525259F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-02-23T14:50:15+08:00 ] 180.153.212.13 /yanwan/index.php/Home/Userinfo/skininfoshow?YW_User_ID%2525252525252525252525252525253D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-02-23T14:59:32+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/time_show?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000375s ]
+SQL: SELECT * FROM `staff_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 130 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-02-23T15:00:27+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_vip?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+SQL: SELECT `YW_UserInfo_ID`,`YW_User_ID`,`YW_User_Name` FROM `yw_user_info`  [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_user_info` LIMIT 1   [ RunTime:0.0099s ]
+SQL: SELECT * FROM `yw_userconsume`  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000700s ]
+
+[ 2017-02-23T15:00:46+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_vip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+SQL: SELECT `YW_UserInfo_ID`,`YW_User_ID`,`YW_User_Name` FROM `yw_user_info`  [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_user_info` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_userconsume`  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: jsoncallback /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000630s ]
+
+[ 2017-02-23T15:00:49+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_vip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+SQL: SELECT `YW_UserInfo_ID`,`YW_User_ID`,`YW_User_Name` FROM `yw_user_info`  [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_user_info` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_userconsume`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: jsoncallback /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-02-23T15:01:21+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_vip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000363s ]
+SQL: SELECT `YW_UserInfo_ID`,`YW_User_ID`,`YW_User_Name` FROM `yw_user_info`  [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_user_info` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yw_userconsume`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: jsoncallback /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-02-23T15:01:37+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/xf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008030s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008084s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-02-23T15:01:47+08:00 ] 180.163.2.119 /yanwan/index.php/Home/Consume/xf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004622s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004685s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-02-23T15:02:13+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/xf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000350s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004214s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004268s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-02-23T15:02:13+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/staff_info?jsoncallback=jQuery22408110492316549649_1487833355031&_=1487833355032
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php on line 44 and defined /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1740 行.
+NOTIC: [8] Undefined variable: field /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1741 行.
+NOTIC: [8] Undefined variable: field /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1751 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_staff_info` LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php on line 49 and defined /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1740 行.
+NOTIC: [8] Undefined variable: field /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1741 行.
+NOTIC: [8] Undefined variable: field /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1751 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_userconsume` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `YW_Staffinfo_ID`,`YW_Staff_ID`,`YW_Staff_Name` FROM `yw_staff_info`  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2017-02-23T15:02:36+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/xfgl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004940s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-02-23T15:02:36+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_vip?jsoncallback=jQuery224019819582774658406_1487833378058&_=1487833378059
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000375s ]
+SQL: SELECT `YW_UserInfo_ID`,`YW_User_ID`,`YW_User_Name` FROM `yw_user_info`  [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_user_info` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `yw_userconsume`  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2017-02-23T15:02:37+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-02-23T15:02:46+08:00 ] 180.153.206.18 /yanwan/index.php/Home/Consume/xfgl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005893s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000506s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000558s ]
+
+[ 2017-02-23T15:02:47+08:00 ] 180.153.201.28 /yanwan/index.php/Home/Consume/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-02-23T15:16:12+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Userinfo/uploadimg?YW_User_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+
+[ 2017-02-23T15:17:12+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Userinfo/uploadimg?YW_User_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-02-23T15:19:29+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Userinfo/uploadimg?YW_User_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-02-23T15:57:44+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Userinfo/uploadimg?YW_User_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+
+[ 2017-02-23T15:58:25+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/time_show?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+SQL: SELECT * FROM `staff_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0049s ]
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 130 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2017-02-23T16:04:55+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_xf?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+SQL: SELECT * FROM `user_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 161 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 161 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 161 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 161 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 161 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 161 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 161 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 161 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 161 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 161 行.
+NOTIC: [8] Undefined index: YW_UserConsume_Time /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 161 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined index: YW_User_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined index: YW_Project_Name /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined index: YW_Project_Cost_Money /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 170 行.
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 176 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-02-23T16:06:35+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_xf?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SELECT * FROM `user_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 177 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-02-23T16:08:44+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_xf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+SQL: SELECT * FROM `user_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 177 行.
+
+[ 2017-02-23T16:09:38+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_xf?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+SQL: SELECT * FROM `user_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 177 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2017-02-23T16:10:13+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_xf?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000361s ]
+SQL: SELECT * FROM `user_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 177 行.
+
+[ 2017-02-23T16:15:32+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_xf?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+SQL: SELECT * FROM `user_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: staff_performance /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 169 行.
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 177 行.
+
+[ 2017-02-23T16:16:03+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_xf?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+SQL: SELECT * FROM `user_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 177 行.
+
+[ 2017-02-23T16:16:17+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/user_xf?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+SQL: SELECT * FROM `user_performance` ORDER BY YW_UserConsume_ID desc  [ RunTime:0.0016s ]
+NOTIC: [8] Undefined offset: -1 /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 177 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001919s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002024s ]
+
+[ 2017-02-23T16:17:36+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/show_user_consume?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 93 行.
+SQL: SELECT `YW_User_ID`,`YW_User_Name`,`YW_User_HeadPic` FROM `yw_user_info` WHERE ( YW_User_ID = 1 )  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yw_userconsume` WHERE ( YW_User_ID = 1 and YW_Staff_ID = 1 )  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2017-02-23T16:22:33+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/staff_performance?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 65 行.
+SQL: SHOW COLUMNS FROM `yw_staff_performance` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `yw_staff_performance` WHERE ( YW_Staff_ID = 1 )  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: YW_Count_Number /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 76 行.
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 77 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: YW_Count_Number /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 76 行.
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 77 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000529s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000581s ]
+
+[ 2017-02-23T16:30:58+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/staff_performance?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000375s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 65 行.
+SQL: SELECT * FROM `yw_staff_performance` WHERE ( YW_Staff_ID = 1 )  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: YW_Count_Number /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 76 行.
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 77 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000813s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000876s ]
+
+[ 2017-02-23T16:33:24+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/staff_performance?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 65 行.
+SQL: SELECT * FROM `yw_staff_performance` WHERE ( YW_Staff_ID = 1 )  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: YW_Count_Number /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 76 行.
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 77 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-02-23T16:33:40+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/staff_performance?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000268s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 65 行.
+SQL: SELECT * FROM `yw_staff_performance` WHERE ( YW_Staff_ID = 1 )  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: YW_Count_Number /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 76 行.
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 77 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0007s ]
+
+[ 2017-02-23T16:34:18+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/staff_performance?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 65 行.
+SQL: SELECT * FROM `yw_staff_performance` WHERE ( YW_Staff_ID = 1 )  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 77 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+
+[ 2017-02-23T16:34:20+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/staff_performance?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 65 行.
+SQL: SELECT * FROM `yw_staff_performance` WHERE ( YW_Staff_ID = 1 )  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 77 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0004s ]
+
+[ 2017-02-23T16:40:59+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/staff_performance?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 65 行.
+SQL: SELECT * FROM `yw_staff_performance` WHERE ( YW_Staff_ID = 1 )  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 77 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0006s ]
+
+[ 2017-02-23T16:41:00+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/staff_performance?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 65 行.
+SQL: SELECT * FROM `yw_staff_performance` WHERE ( YW_Staff_ID = 1 )  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 77 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+
+[ 2017-02-23T16:41:37+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/staff_performance?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 65 行.
+SQL: SELECT * FROM `yw_staff_performance` WHERE ( YW_Staff_ID = 1 )  [ RunTime:0.0007s ]
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project` WHERE ( YW_Project_ID = 1 )  [ RunTime:0.0006s ]
+
+[ 2017-02-23T16:42:48+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/staff_performance?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 65 行.
+SQL: SELECT * FROM `yw_staff_performance` WHERE ( YW_Staff_ID = 1 )  [ RunTime:0.0006s ]
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project` WHERE ( YW_Project_ID = 1 )  [ RunTime:0.0005s ]
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project` WHERE ( YW_Project_ID = 2 )  [ RunTime:0.0005s ]
+
+[ 2017-02-23T16:44:39+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/staff_performance?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 65 行.
+SQL: SELECT * FROM `yw_staff_performance` WHERE ( YW_Staff_ID = 1 )  [ RunTime:0.0006s ]
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project` WHERE ( YW_Project_ID = 1 )  [ RunTime:0.0006s ]
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project` WHERE ( YW_Project_ID = 2 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009124s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009304s ]
+
+[ 2017-02-23T16:52:47+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/staff_performance?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001282s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 65 行.
+SQL: SELECT * FROM `yw_staff_performance` WHERE ( YW_Staff_ID = 1 )  [ RunTime:0.0105s ]
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project` WHERE ( YW_Project_ID = 1 )  [ RunTime:0.0038s ]
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project` WHERE ( YW_Project_ID = 2 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008230s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008331s ]
+
+[ 2017-02-23T17:00:44+08:00 ] 180.153.201.28 /yanwan/index.php/Home/Consume/staff_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php on line 44 and defined /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1740 行.
+NOTIC: [8] Undefined variable: field /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1741 行.
+NOTIC: [8] Undefined variable: field /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1751 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_staff_info` LIMIT 1   [ RunTime:0.0122s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php on line 49 and defined /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1740 行.
+NOTIC: [8] Undefined variable: field /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1741 行.
+NOTIC: [8] Undefined variable: field /usr/local/apache/htdocs/yanwan/ThinkPHP/Library/Think/Model.class.php 第 1751 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_userconsume` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `YW_Staffinfo_ID`,`YW_Staff_ID`,`YW_Staff_Name` FROM `yw_staff_info`  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: jsoncallback /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 50 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000770s ]
+
+[ 2017-02-23T17:01:53+08:00 ] 175.13.255.164 /yanwan/index.php/Home/Consume/show_user_consume?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 93 行.
+SQL: SELECT `YW_User_ID`,`YW_User_Name`,`YW_User_HeadPic` FROM `yw_user_info` WHERE ( YW_User_ID = 1 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yw_userconsume` WHERE ( YW_User_ID = 1 and YW_Staff_ID = 1 )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: where /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 108 行.
+SQL: SELECT `YW_Project_Name`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project`  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2017-02-23T17:12:54+08:00 ] 180.153.214.190 /yanwan/index.php/Home/Userinfo/userfinfoshowone%252525252525252525252525EF%252525252525252525252525BC%2525252525252525252525259F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+
+[ 2017-02-23T17:55:07+08:00 ] 101.226.33.228 /yanwan/index.php/Home/Consume/user_vip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008240s ]
+SQL: SELECT `YW_UserInfo_ID`,`YW_User_ID`,`YW_User_Name` FROM `yw_user_info`  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_user_info` LIMIT 1   [ RunTime:0.0120s ]
+SQL: SELECT * FROM `yw_userconsume`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: jsoncallback /usr/local/apache/htdocs/yanwan/Application/Home/Controller/ConsumeController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008844s ]
+
+[ 2017-02-23T18:20:36+08:00 ] 180.153.206.18 /yanwan/index.php/Home/Consume/xfgl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017779s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017866s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007765s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001143s ]
+
+[ 2017-02-23T19:25:13+08:00 ] 101.226.65.108 /yanwan/index.php/Home/Userinfo/uploadimg?YW_User_ID%3D1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-02-23T19:48:15+08:00 ] 101.226.68.215 /yanwan/index.php/Home/Consume/staff_performance?jsoncallback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/apache/htdocs/yanwan/Application/Home/Model/ConsumeModel.class.php 第 65 行.
+SQL: SELECT * FROM `yw_staff_performance` WHERE ( YW_Staff_ID = 1 )  [ RunTime:0.0007s ]
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project` WHERE ( YW_Project_ID = 1 )  [ RunTime:0.0045s ]
+SQL: SELECT `YW_Project_Name`,`YW_Project_Img`,`YW_Project_Cost_Money` FROM `yw_beautyitemlist_project` WHERE ( YW_Project_ID = 2 )  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000837s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000973s ]
+
+[ 2017-02-23T19:58:09+08:00 ] 101.226.33.204 /yanwan/index.php/Home/Userinfo/userfinfoshowone%25252525252525252525252525EF%25252525252525252525252525BC%252525252525252525252525259F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-02-23T22:46:34+08:00 ] 101.226.33.218 /yanwan/index.php/Home/Userinfo/userfinfoshowone%2525252525252525252525252525EF%2525252525252525252525252525BC%25252525252525252525252525259F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007663s ]
+

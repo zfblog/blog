@@ -1,0 +1,255 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0rem; padding:0rem;}
+body{ font-family:"Open Sans","Source Han Sans","黑体-简", "微软雅黑", "宋体"; background-color: #ebebeb;}
+a{width:100%; height:100%; border:none; text-decoration: none; color: inherit;}
+img{width:100%; height:auto; border:none;}
+ul, ol, li { list-style: none; }
+.clear{clear:both; overflow:hidden; height:0; font-size:0; line-height:0;}
+
+
+body{
+	margin: 0rem;
+	padding: 0rem;
+	height:100%;
+	width: 100%;
+	background-color: #FFFFFF;
+	font-size: 0.18rem;
+	color: #FFFFFF;
+	letter-spacing: 0.018rem;
+}
+#header{
+	width: 100%;
+	height: 0.77rem;
+	background-color: #009e96;
+	position: fixed;
+	top: 0rem;
+	left: 0rem;
+	
+	
+}
+.status_bar{
+	width: 100%;
+	height: 0.24rem;
+}
+.navigation_bar{
+	width: 100%;
+	height: 0.53rem;
+}
+.navigation_a{
+	height: 0.53rem;
+	width: 10%;
+	float: left;
+}
+.navigation_a a{
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+.navigation_a_img{
+	height: 0.5rem;
+	width: 0.6rem;
+	background-image: url(../img/yw_login_black_02.png);
+	background-size: 100% auto;	
+}
+.navigation_txt{
+	height: 0.53rem;
+	width: 90%;
+	text-align: center;
+	line-height: 0.64rem;
+	font-size: 0.2rem;
+	float: left;
+}
+#content{
+	height: 100%;
+	width: 100%;
+	margin-top: 0.89rem;
+}
+.coutent_bottom{
+	height: 0.7rem;
+	width: 90%;
+}
+.information{
+	width: 90%;
+	height: 1.26rem;
+	margin-top: 0.12rem;
+	margin-left: 5%;
+	border: 1px solid #009e96;
+}
+.information_left{
+	width: 20%;
+	height: 1.26rem;
+	float: left;
+	
+}
+.information_img{
+	width: 0.54rem;
+	height: 0.54rem;
+	margin: 0 auto;
+	margin-top: 0.2rem;
+	-moz-border-radius:0.27rem;
+	border-radius:0.27rem;
+}
+.information_img img{
+	width: 0.54rem;
+	height: 0.54rem;
+	-moz-border-radius:0.27rem;
+	border-radius:0.27rem;
+}
+.information_txt{
+	width: 100%;
+	height: 0.3rem;
+	text-align: center;
+	color: #333333;
+	line-height: 0.3rem;
+	margin-top: 0.1rem;
+}
+.information_middle{
+	width: 65%;
+	height: 1.26rem;
+	float: left;
+	letter-spacing: 0.01rem;
+}
+.information_phone,.information_sex,.information_account_number{
+	width: 100%;
+	height: 0.42rem;
+}
+.information_phone{
+	font-size: 0.2rem;
+	color: #333333;
+	line-height:0.42rem;
+	border-bottom: 1px solid lightgray;
+s}
+.information_sex{
+	font-size: 0.18rem;
+	color: #666666;
+	line-height:0.42rem;
+}
+.information_account_number{
+	font-size: 0.18rem;
+	color: #666666;
+	line-height:0.3rem;
+}
+.information_right_a{
+	display: block;
+}
+
+.information_right{
+	width: 15%;
+	height: 1.26rem;
+	background-color:#009e96;
+	float: left;
+}
+
+.information_right_img{
+	width: 0.24rem;
+	height: 0.24rem;
+	margin: 0 auto;
+	margin-top: 0.5rem;
+	background-image: url(../img/yw_staff_delete_03.png);
+	background-size: 100% auto;	
+}
+
+#footer{
+	height: 0.6rem;
+	width: 100%;
+	background-color:#009e96;
+	position: fixed;
+	bottom: 0rem;
+	left: 0rem;
+	
+}
+.footer_a{
+	display: block;
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	line-height: 0.6rem;
+}
+#land_display{
+	height: 100%;
+	width: 100%;
+	background:rgba(0,0,0,0.4);
+	display:none;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	letter-spacing:3px;
+}
+.land_display_div{
+	width: 60%; 
+	height: 2.0rem; 
+	color: #FF0000;
+	margin: 0 auto;
+	background-color: #FFFFFF; 
+	border-radius: 30px;
+	position: relative;
+	top: 4.0rem;
+	font-size: 0.3rem;
+	text-align: center;
+}
+.land_display_text{
+	height:1.25rem; 
+	width: 100%;
+	font-size: 0.3rem; 
+	color: #333333; 
+	text-align: center; 
+	line-height: 1.25rem; 
+	border-bottom: 1px solid #009e96;
+}
+.land_display_flase{
+	color: #333333;
+	 width: 50%;
+	 height: 0.75rem ;
+	 line-height: 0.75rem; 
+	 float: left;
+	 border-radius: 0rem 0rem 0rem 0.18rem;
+}
+.land_display_ture{
+	  width: 50%;
+	 height: 0.75rem ;
+	 line-height: 0.75rem ; 
+	background-color: #009e96; 
+	margin-left: 50%; 
+	border-radius: 0rem 0rem 0.18rem 0rem;
+}
+#display1,#display2{
+	height: 100%;
+	width: 100%;
+	background:rgba(0,0,0,0.4);
+	display: none;
+	position: absolute;
+	top: 0rem;
+	left: 0rem;
+	letter-spacing: 0.018rem;
+}
+.display1_div,.display2_div{
+	width: 60%; 
+	height: 2.0rem; 
+	color: #FF0000;
+	margin: 0 auto;
+	background-color: #FFFFFF; 
+	border-radius: 30px;
+	position: relative;
+	top: 4.0rem;
+	font-size: 0.3rem;
+	text-align: center;
+}
+.display1_text,.display2_text{
+	width: 100%;
+	height: 1.0rem;
+	line-height: 1.0rem;
+}
+.display1_img,.display2_img{
+	width: 0.48rem; 
+	height: 0.48rem;
+	margin: 0 auto;
+	background-image: url(../img/yw_login_uptade_true.png);
+	background-size: 100% auto;
+}
+#display2{
+	display: none;
+}
+.display2_img{
+	background-image:url(../img/yw_login_uptade_flase_03.png);
+}

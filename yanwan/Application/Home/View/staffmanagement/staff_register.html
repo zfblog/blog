@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<meta name="viewport" content="initial-scale=1, width=device-width, maximum-scale=1, user-scalable=no">
+		<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/yys.css"/>
+		<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/staff_register.css"/>
+		<script type="text/javascript" src="__PUBLIC__/js/yw_login.js"></script>
+		<script type="text/javascript" src="__PUBLIC__/js/jquery-2.2.4.min.js"></script>
+	</head>
+	<body >
+		<div data-role="header" id="header">
+				<div class="status_bar"></div>
+				<div class="navigation_bar">
+					<div class="navigation_a">
+						<a data-rel = "back" onClick="javascript :history.go(-1);">
+							<div class="navigation_a_img"></div>
+						</a>
+					</div>
+					<div class="navigation_txt">添加账号</div>
+				</div>
+		</div>
+		<div id="content_div">
+			<div id="massegin_div" >
+				<span id="massegin">
+				</span>
+			</div>
+			<input type="hidden" id="User_Rank"  value="{$YW_User_Rank}"/>
+			<div class="staff_name">
+				<div class="staff_name_img"></div>
+				<div class="staff_name_text">姓名</div>
+				<div class="staff_name_input">
+					<input type="text" id="staff_name_input"/>
+				</div>
+			</div>
+			<div class="user_phone">
+				<div class="user_phone_img"></div>
+				<div class="user_phone_text">手机号码</div>
+				<div class="user_phone_input">
+					<input type="text" id="phone_input"/>
+				</div>
+			</div>
+			<div class="user_name">
+				<div class="user_name_img"></div>
+				<div class="user_name_text">初始账号</div>
+				<div class="user_name_input" >
+					<input type="text" id="name_input"/>
+				</div>
+			</div>
+			<div class="user_password">
+				<div class="user_password_img"></div>
+				<div class="user_password_text">初始密码</div>
+				<div class="user_password_input" >
+					<input type="text" id="password_input"/>
+				</div>
+			</div>
+		</div>
+		<div data-role = "footer" id="footer">
+				<div class="footer_button" id="footer_button1">确认添加</div>
+		</div>
+		<div id="display1">
+				<div class="display1_div">
+					<div class="display1_text">注册成功</div>
+					     <div class="display1_img"></div>
+			</div>
+	    </div>
+		<div id="display2">
+				<div class="display2_div">
+					<div class="display2_text">注册失败</div>
+						<div class="display2_img"></div>
+				</div>
+		</div>
+		<if condition="($code eq 1000)"><script type="text/javascript">document.getElementById("display1").style.display="block";</script>
+			<elseif condition="($code eq 1005)"/>
+			<elseif condition="($code eq 1001)"/><script type="text/javascript">document.getElementById("display2").style.display="block";</script>
+			<elseif condition="($code eq 1002)"/><script type="text/javascript">$('#massegin').html("该账号已存在");	</script>
+   			<else />
+   		</if>
+   		
+	</body>
+	<script type="text/javascript">
+		$(function(){
+			$('#staff_name_input').blur(function(){
+				staff_name_input=$('#staff_name_input').val();
+				vailname(staff_name_input);
+			})	
+			$('#phone_input').blur(function(){
+				phone_input=$('#phone_input').val();
+				vailPhone(phone_input);
+			})	
+			$('#name_input').blur(function(){
+				name_input=$('#name_input').val();
+				passvalue1(name_input);
+			})
+			$('#password_input').blur(function(){
+				password_input=$('#password_input').val();
+				passvalue2(password_input);
+			})	
+			$("#footer_button1").click(function(){
+				staff_name_input=$('#staff_name_input').val();
+				phone_input=$('#phone_input').val();
+				name_input=$('#name_input').val();
+				password_input=$('#password_input').val();
+				User_Rank=$('#User_Rank').val();
+				massegin=$('#massegin').html();
+				if(massegin==""){
+					window.location.href="__CONTROLLER__/staff_register?YW_Staff_Name="+staff_name_input+"&YW_User_Name="+name_input+"&YW_User_Password="+password_input+"&YW_User_Phone="+phone_input+"&YW_User_Rank="+User_Rank;
+				}else{
+					
+				}
+			})
+			$("#display1").click(function(){
+				document.getElementById("display1").style.display="none";
+			})
+			$("#display2").click(function(){
+				document.getElementById("display2").style.display="none";
+			})
+		})
+		function vailname(staff_name_input){
+			if(staff_name_input==""){
+				$('#massegin').html("请输入正确的姓名");	
+			}else{
+				$('#massegin').html("");	
+			}
+		}
+		function vailPhone(item){
+			console.log(item);
+			var myreg = /^(((13[0-9]{1})|(14[0-9]{1})|(17[0]{1})|(15[0-3]{1})|(15[5-9]{1})|(18[0-9]{1}))+\d{8})$/;
+			if (!myreg.test(item)) {
+				$('#massegin').html("请输入正确的手机号码");	
+			}else{
+				$('#massegin').html("");	
+			}
+		}
+		
+		function passvalue1(name_input){   //第一次输入密码
+			  if(!/^[a-zA-Z0-9_]{3,16}$/.test(name_input)){
+				 $('#massegin').html("请输入3-16位由字母或数字组成的账号");
+			  }else{
+			     $('#massegin').html("");
+			 }
+	    }
+	
+		function passvalue2(password_input){   //第二次输入密码
+			if(!/^[a-zA-Z0-9_]{3,16}$/.test(password_input)){
+				 $('#massegin').html("请输入3-16位由字母或数字组成的密码");
+			}else{
+			     $('#massegin').html("");
+			}
+	    }
+
+		
+	</script>
+</html>

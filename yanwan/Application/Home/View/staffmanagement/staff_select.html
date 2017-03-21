@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<meta name="viewport" content="initial-scale=1, width=device-width, maximum-scale=1, user-scalable=no">
+		<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/yys.css"/>
+		<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/yw_staff_select.css"/>
+		<script type="text/javascript" src="__PUBLIC__/js/yw_login.js"></script>
+		<script type="text/javascript" src="__PUBLIC__/js/jquery-2.2.4.min.js"></script>
+	</head>
+	<body>
+		<div data-role = "page" id="page1">
+			<div data-role="header" id="header">
+				<div class="status_bar"></div>
+				<div class="navigation_bar">
+					<div class="navigation_a">
+						<a data-rel = "back" onClick="javascript :history.go(-1);">
+							<div class="navigation_a_img"></div>
+						</a>
+					</div>
+					<div class="navigation_txt">
+						<if condition="($code eq 1005)">
+				   			<elseif  condition="($code eq 1004)"/>
+				   			<else/>
+				   			<if condition="($managementarr[0]['yw_user_rank'] eq 2)">店长管理
+					   			<elseif condition="($managementarr[0]['yw_user_rank'] eq 3)"/>美容顾问管理
+					   			<else/>
+   							</if>	
+   						</if>
+					</div>
+				</div>
+			</div>
+			<div data-role = "content" id="content">
+					 <foreach name="managementarr" item="vo" key="k" >
+	     				<div class="information">
+							<div class="information_left">
+								<div class="information_img">
+									<img src="__IMG__/headerpic/small/{$managementarr[$k]['yw_staff_headpic']}" />
+								</div>
+								<div class="information_txt">{$managementarr[$k]["yw_staff_name"]}</div>
+							</div>
+							<div class="information_middle">
+								<div class="information_phone">{$managementarr[$k]["yw_user_phone"]}</div>
+								<div class="information_sex">{$managementarr[$k]["yw_staff_sex"]}</div>
+								<div class="information_account_number">{$managementarr[$k]["yw_user_name"]}</div>
+							</div>
+								<div class="information_right" onclick="staff_delete({$managementarr[$k]['yw_user_id']})">
+									<div class="information_right_img"></div>
+								</div>
+						
+						</div>
+	   				</foreach>
+	   				<foreach name="managementarr" item="vo" key="k" >
+	     				<div class="information">
+							<div class="information_left">
+								<div class="information_img">
+									<img src="__IMG__/headerpic/small/{$managementarr[$k]['yw_staff_headpic']}" />
+								</div>
+								<div class="information_txt">{$managementarr[$k]["yw_staff_name"]}</div>
+							</div>
+							<div class="information_middle">
+								<div class="information_phone">{$managementarr[$k]["yw_user_phone"]}</div>
+								<div class="information_sex">{$managementarr[$k]["yw_staff_sex"]}</div>
+								<div class="information_account_number">{$managementarr[$k]["yw_user_name"]}</div>
+							</div>
+								<div class="information_right" onclick="staff_delete({$managementarr[$k]['yw_user_id']})">
+									<div class="information_right_img"></div>
+								</div>
+						
+						</div>
+	   				</foreach>
+	   				<div class="coutent_bottom">
+	   				</div>
+			</div>
+			
+			<div data-role = "footer" id="footer">
+				<a href="__CONTROLLER__/staff_value?YW_User_Rank={$YW_User_Rank}" class="footer_a">
+					<if condition="($YW_User_Rank eq 1)">添加新店长
+					   <elseif condition="($YW_User_Rank eq 2)"/>添加新美容顾问
+					   	<else/>
+   					</if>	
+				</a>
+			</div>
+			<div id="land_display">
+				<div class="land_display_div">
+					<div class="land_display_text">确定要删除他/她？</div>
+					<a id="land_display_flase_a"><div class="land_display_flase">否</div></a>
+					<a href="#" id="land_display_ture_a"><div class="land_display_ture">是</div></a>
+				</div>
+			</div>
+			<div id="display1">
+				<a href="__CONTROLLER__/staff_select?YW_User_Rank={$YW_User_Rank}">
+					<div class="display1_div">
+						<div class="display1_text">删除成功</div>
+						     <div class="display1_img"></div>
+					</div>
+				</a>
+	  		</div>
+			<div id="display2">
+				<a href="__CONTROLLER__/staff_select?YW_User_Rank={$YW_User_Rank}">
+					<div class="display2_div">
+						<div class="display2_text">删除失败</div>
+							<div class="display2_img"></div>
+					</div>
+				</a>
+			</div>
+		</div>
+		<if condition="($code eq 1000)"><script type="text/javascript">document.getElementById("display1").style.display="block";</script>
+			<elseif  condition="($code_select eq 1001)"/><script type="text/javascript">document.getElementById("display2").style.display="block";</script>
+			<else/>
+   		</if>
+	</body>
+	<script type="text/javascript">
+		function staff_delete(yw_user_id){
+			$(function(){
+				document.getElementById("land_display").style.display="block";
+				$("#land_display_ture_a").attr("href","__CONTROLLER__/staff_delete?YW_User_ID="+yw_user_id)
+			})
+		}
+		$(function(){
+			$("#land_display_flase_a").click(function(){
+				document.getElementById("land_display").style.display="none";
+			})
+		})
+	</script>
+</html>

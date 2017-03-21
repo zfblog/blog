@@ -1,0 +1,75 @@
+body{ margin:0; padding:0;}
+.dingbu{
+	width:100%;
+	height:15px;
+	background:#019e97;
+	}
+.top_biao{
+	width:100%;
+	height:50px;
+	background:#019e97;
+	color:#fff;
+	font-size:30px;
+	}
+.top_fanhui{
+	float:left;
+	font-size:36px;
+	}
+.top_biaoti{
+	text-align:center;
+	position:relative;
+	top:15px;
+	}
+.meirong{
+	width:90%;
+	height:35px;
+	margin:0 auto;
+	border-bottom:1px solid #999;
+	}
+.meirongxiangmu{
+    float:left;
+	position:relative;
+	left:20%;
+	padding-bottom:7px;
+	line-height:25px;
+	}
+.meirongxiangmu:active{
+    float:left;
+	position:relative;
+	left:20%;
+	color:#019e97;
+	border-bottom:3px solid #019e97;
+	padding-bottom:7px;
+	line-height:25px;
+	}
+.meironggunwen{
+    float:left;
+    position:relative;
+	left:40%;
+	color:#019e97;
+	border-bottom:3px solid #019e97;
+	padding-bottom:7px;
+	line-height:25px;
+	}
+.guwen_fuhao{
+	float:left;
+	margin-left:95%;
+	margin-top:-30px;
+	font-size:36px;	
+	color:#ccc;
+	}
+.guwen_haoma{
+	float:left;
+	color:#999;
+	}
+
+.guwen{
+	width:90%;
+	height:50px;
+	border-bottom:1px solid #ccc;
+	margin:0 auto;
+	position:relative;
+	}
+.guwen_mingchen{
+	margin-top:10px;
+	}

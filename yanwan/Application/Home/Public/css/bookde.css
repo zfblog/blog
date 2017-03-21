@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+
+		.main_container{
+			width:1200px;
+			margin:0 auto;
+		/*	border:1px red solid;*/
+		}
+		.crumb_nav{
+			margin-top:48px;
+			height:40px;
+			font:14px "微软雅黑";
+		 }
+		.crumb_nav span{
+			line-height:34px;
+			float:left;
+		}
+		.placeul li{
+			float:left;
+		    line-height:34px;
+		    padding-left:2px;
+		}
+	    a{
+			text-decoration:none;
+			color:#666666;
+		}
+		.book_details{
+			overflow:hidden;
+			background:#ffffff;
+		}
+		#first a{
+			color:#4e7a63;
+ 		}
+		
+		.book_pic{
+			float:left;
+			width:176px;/**/
+			border-right:2px solid #f0f0f0;
+			padding:56px 40px;/**/
+		}
+		.book_intro{
+			float:left;
+		}
+		.book_pic img{
+			box-shadow:3px 9px 20px #aaaaaa;
+		}
+		.book_abstract{
+			overflow:hidden;
+			padding:20px 0 20px 32px;
+			border-bottom:2px  solid #f0f0f0;
+		}
+		.book_title{
+			float:left;
+		}
+		.book_title p{
+			font:20px "微软雅黑";
+		}
+		.book_title span{
+			font:12px "微软雅黑";
+		}
+		.book_score{
+			float:left;
+			margin-left:368px;
+		}
+		 .book_score div{
+		    float:left;
+	   }
+	   .book_score p{
+		   text-align:right;
+		   font:12px "微软雅黑"; 
+	   }
+		.star{
+		   margin:6px 0px 4px 0px;
+	   }
+	   .score{
+		   font:34px "微软雅黑";
+		   margin:0px 50px 0px 18px;
+	   }
+	  .book_operate{
+		  font:12px "微软雅黑";
+		  color:#666666;
+		  padding:30px 0px 30px 34px ; /**/
+	  }
+	  .price span:last-child{
+		  text-decoration: line-through;
+		  margin-left:26px;
+	  }
+	  .operate_button button{
+		  font:14px "微软雅黑";
+		  height :30px;
+		  width:92px;
+		  border-radius:8px;
+		  margin:18px 10px 0px 0px;
+	  }
+	  .bookcase{
+		  background:#4e7a63;
+		  color:#ffffff;
+	  }
+	  .shopping{
+		  background:#e7f3f0;
+		  color:#4e7a63;
+	  }
+	 /*.book_content{
+		  background:#ffffff;
+		  margin-top:40px;
+		  padding-bottom:40px;
+	  } */
+	  .preface_text{
+		  width:1048px;
+		  height:1350px;
+		  margin:0 auto;
+		  font:20px "微软雅黑";
+	  }  
+	  .preface_text p{
+		  line-height:50px;
+		  text-indent:2em;
+	  }  
+	  .preface{
+		  margin:0px 20px 20px;;
+		  padding:106px 0px 12px 0px;;
+		  text-align:center;
+		  border-bottom:1px solid #f0f0f0;
+		  font: 24px  "微软雅黑" ;
+		  color:#4e7a63;
+	  }	
+	  .book_page{
+		  text-align:center;
+	  }
+	  .book_page a{
+		  border:1px solid #b5b5b5;
+		  background:#f4f4f4;
+		  font_size:16px;
+		  padding:6px 10px 6px 10px;
+	  }
+	  .footer{
+		  margin-top:80px;
+	  }     
+  

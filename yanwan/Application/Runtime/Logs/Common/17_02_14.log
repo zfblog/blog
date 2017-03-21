@@ -1,0 +1,60 @@
+[ 2017-02-14T21:35:28+08:00 ] 127.0.0.1 /php/thinkphp/index.php/application/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2017-02-14T21:36:06+08:00 ] 127.0.0.1 /php/thinkphp/index.php/Applicatopn/index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Applicatopn
+
+[ 2017-02-14T21:37:57+08:00 ] 127.0.0.1 /php/thinkphp/index.php/Applicatopn/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Applicatopn
+
+[ 2017-02-14T21:38:05+08:00 ] 127.0.0.1 /php/thinkphp/index.php/Applicatopn/index/ff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Applicatopn
+
+[ 2017-02-14T21:38:26+08:00 ] 127.0.0.1 /php/thinkphp/index.php/Applicatopn/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Applicatopn
+
+[ 2017-02-14T21:38:39+08:00 ] 127.0.0.1 /php/thinkphp/index.php/Application/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2017-02-14T22:10:25+08:00 ] 127.0.0.1 /php/thinkphp/Application/Home/View/Index/img/bookcover1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2017-02-14T22:10:25+08:00 ] 127.0.0.1 /php/thinkphp/Application/Home/View/Index/__PUBLIC__/css/css.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2017-02-14T22:10:25+08:00 ] 127.0.0.1 /php/thinkphp/Application/Home/View/Index/img/starg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2017-02-14T22:10:25+08:00 ] 127.0.0.1 /php/thinkphp/Application/Home/View/Index/img/starw.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+

@@ -1,0 +1,1184 @@
+[ 2017-02-20T20:34:22+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-02-20T20:36:21+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Userinfo
+
+[ 2017-02-20T20:36:46+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Userinfo
+
+[ 2017-02-20T20:36:52+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Userinfo
+
+[ 2017-02-20T20:37:49+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Userinfo
+
+[ 2017-02-20T20:38:07+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Userinfo
+
+[ 2017-02-20T20:38:08+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Userinfo
+
+[ 2017-02-20T20:38:08+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Userinfo
+
+[ 2017-02-20T20:38:08+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Userinfo
+
+[ 2017-02-20T20:38:15+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T20:41:12+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊï∞ÊçÆÂ∫ìÈ©±Âä®: Think\Db\Driver\
+
+[ 2017-02-20T20:41:21+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊï∞ÊçÆÂ∫ìÈ©±Âä®: Think\Db\Driver\
+
+[ 2017-02-20T20:41:50+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `yw_user_info` [ RunTime:0.0840s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-02-20T20:42:33+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] ”…”⁄¡¨Ω”∑Ω‘⁄“ª∂Œ ±º‰∫Û√ª”–’˝»∑¥∏¥ªÚ¡¨Ω”µƒ÷˜ª˙√ª”–∑¥”¶£¨¡¨Ω”≥¢ ‘ ß∞‹°£
+ (trying to connect via tcp://123.207.37.160:3306) E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 103 Ë°å.
+ERR: SQLSTATE[HY000] [2002] ”…”⁄¡¨Ω”∑Ω‘⁄“ª∂Œ ±º‰∫Û√ª”–’˝»∑¥∏¥ªÚ¡¨Ω”µƒ÷˜ª˙√ª”–∑¥”¶£¨¡¨Ω”≥¢ ‘ ß∞‹°£
+
+
+[ 2017-02-20T20:45:19+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] ”…”⁄¡¨Ω”∑Ω‘⁄“ª∂Œ ±º‰∫Û√ª”–’˝»∑¥∏¥ªÚ¡¨Ω”µƒ÷˜ª˙√ª”–∑¥”¶£¨¡¨Ω”≥¢ ‘ ß∞‹°£
+ (trying to connect via tcp://123.207.37.160:3306) E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 103 Ë°å.
+ERR: SQLSTATE[HY000] [2002] ”…”⁄¡¨Ω”∑Ω‘⁄“ª∂Œ ±º‰∫Û√ª”–’˝»∑¥∏¥ªÚ¡¨Ω”µƒ÷˜ª˙√ª”–∑¥”¶£¨¡¨Ω”≥¢ ‘ ß∞‹°£
+
+
+[ 2017-02-20T20:45:34+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] Ã◊Ω”◊÷≤Ÿ◊˜≥¢ ‘“ª∏ˆŒﬁ∑®¡¨Ω”µƒ÷˜ª˙°£
+ (trying to connect via tcp://123.207.37.160:3306) E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 103 Ë°å.
+ERR: SQLSTATE[HY000] [2002] Ã◊Ω”◊÷≤Ÿ◊˜≥¢ ‘“ª∏ˆŒﬁ∑®¡¨Ω”µƒ÷˜ª˙°£
+
+
+[ 2017-02-20T20:48:36+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='000,111' WHERE ( YW_User_ID=1 ) [ RunTime:1.0451s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-20T20:49:22+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='1111,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-20T20:50:25+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='222,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-20T20:50:58+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='33,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T20:51:18+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='33,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T20:51:26+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='44,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-20T20:52:46+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='55,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T20:53:09+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='55,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T20:53:12+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='55,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0580s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T20:53:12+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='55,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T20:53:13+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='55,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T20:53:14+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='55,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0270s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T20:53:21+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='66,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T20:53:21+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='66,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T20:53:22+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='66,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.3060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T20:53:22+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='66,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-20T20:54:11+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='77,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0230s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T20:55:17+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='88,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0240s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-20T20:55:18+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='88,111' WHERE ( YW_User_ID=1 ) [ RunTime:0.0220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:01:28+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/userfinfoshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: tablename E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 8 Ë°å.
+NOTIC: [8] Undefined index: YW_Staff_ID E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 11 Ë°å.
+NOTIC: [8] Undefined index: tablename E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 13 Ë°å.
+ERR: 1103:Incorrect table name ''
+ [ SQLËØ≠Âè• ] : SELECT * FROM `` WHERE ( YW_Staff_ID= ) 
+ERR: 1103:Incorrect table name ''
+ [ SQLËØ≠Âè• ] : SELECT * FROM `` WHERE ( YW_Staff_ID= ) 
+
+[ 2017-02-20T21:01:41+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/userfinfoshow?YW_Staff_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: tablename E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 8 Ë°å.
+NOTIC: [8] Undefined index: tablename E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 13 Ë°å.
+ERR: 1103:Incorrect table name ''
+ [ SQLËØ≠Âè• ] : SELECT * FROM `` WHERE ( YW_Staff_ID=1 ) 
+ERR: 1103:Incorrect table name ''
+ [ SQLËØ≠Âè• ] : SELECT * FROM `` WHERE ( YW_Staff_ID=1 ) 
+
+[ 2017-02-20T21:02:09+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/userfinfoshow?tablename=yw_user_infoYW_Staff_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: YW_Staff_ID E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 11 Ë°å.
+ERR: 1146:Table 'yw_database.yw_user_info_y_w__staff__i_d=1' doesn't exist
+ [ SQLËØ≠Âè• ] : SHOW COLUMNS FROM `yw_user_info_y_w__staff__i_d=1`
+ERR: 1146:Table 'yw_database.yw_user_info_y_w__staff__i_d=1' doesn't exist
+ [ SQLËØ≠Âè• ] : SHOW COLUMNS FROM `yw_user_info_y_w__staff__i_d=1`
+
+[ 2017-02-20T21:02:18+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/userfinfoshow?tablename=yw_user_info&YW_Staff_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: YW_User_ID E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 9 Ë°å.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQLËØ≠Âè• ] : SELECT * FROM `yw_user_info` WHERE ( YW_User_ID= ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQLËØ≠Âè• ] : SELECT * FROM `yw_user_info` WHERE ( YW_User_ID= ) 
+
+[ 2017-02-20T21:02:36+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/userfinfoshow?tablename=yw_user_info&YW_User_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SELECT * FROM `yw_user_info` WHERE ( YW_User_ID=1 )  [ RunTime:0.0490s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\802afedb73c4083769ec4f9232726bd5.php Á¨¨ 19 Ë°å.
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\802afedb73c4083769ec4f9232726bd5.php Á¨¨ 20 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.021001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-20T21:03:58+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/searchuserinfo?field=YW_User_ID&searchkey=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SELECT * FROM `yw_user_info` WHERE ( YW_User_ID like '%1%' )  [ RunTime:0.0250s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\802afedb73c4083769ec4f9232726bd5.php Á¨¨ 19 Ë°å.
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\802afedb73c4083769ec4f9232726bd5.php Á¨¨ 20 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:04:06+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/searchuserinfo?field=YW_User_ID&searchkey=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SELECT * FROM `yw_user_info` WHERE ( YW_User_ID like '%2%' )  [ RunTime:0.0460s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\802afedb73c4083769ec4f9232726bd5.php Á¨¨ 19 Ë°å.
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\802afedb73c4083769ec4f9232726bd5.php Á¨¨ 20 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:04:36+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/staffachievement?field=YW_Staff_ID&searchkey=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:04:41+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/staffachievement?field=YW_Staff_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-20T21:04:47+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/staffachievement?YW_Staff_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `yw_userconsume` [ RunTime:0.0280s ]
+SQL: SELECT SUM(YW_UserConsume_Money) AS tp_sum FROM `yw_userconsume` WHERE ( YW_Staff_ID=1 ) LIMIT 1   [ RunTime:0.0230s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_userconsume` WHERE ( YW_Staff_ID=1 ) LIMIT 1   [ RunTime:0.0250s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\802afedb73c4083769ec4f9232726bd5.php Á¨¨ 20 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:05:40+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/staffachievement?YW_Staff_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SELECT SUM(YW_UserConsume_Money) AS tp_sum FROM `yw_userconsume` WHERE ( YW_Staff_ID=1 ) LIMIT 1   [ RunTime:0.0350s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_userconsume` WHERE ( YW_Staff_ID=1 ) LIMIT 1   [ RunTime:0.0290s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\802afedb73c4083769ec4f9232726bd5.php Á¨¨ 20 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:05:41+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/staffachievement?YW_Staff_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SELECT SUM(YW_UserConsume_Money) AS tp_sum FROM `yw_userconsume` WHERE ( YW_Staff_ID=1 ) LIMIT 1   [ RunTime:0.0300s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_userconsume` WHERE ( YW_Staff_ID=1 ) LIMIT 1   [ RunTime:0.0330s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\802afedb73c4083769ec4f9232726bd5.php Á¨¨ 20 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:05:41+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/staffachievement?YW_Staff_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SELECT SUM(YW_UserConsume_Money) AS tp_sum FROM `yw_userconsume` WHERE ( YW_Staff_ID=1 ) LIMIT 1   [ RunTime:0.0250s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yw_userconsume` WHERE ( YW_Staff_ID=1 ) LIMIT 1   [ RunTime:0.0320s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\802afedb73c4083769ec4f9232726bd5.php Á¨¨ 20 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-20T21:06:23+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skininfoshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SELECT * FROM `yw_user_info`  [ RunTime:0.0340s ]
+SQL: SHOW COLUMNS FROM `yw_skin_data` [ RunTime:0.0410s ]
+NOTIC: [8] Undefined variable: where E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 71 Ë°å.
+SQL: SELECT * FROM `yw_skin_data`  [ RunTime:0.0290s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\802afedb73c4083769ec4f9232726bd5.php Á¨¨ 19 Ë°å.
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\802afedb73c4083769ec4f9232726bd5.php Á¨¨ 20 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:06:54+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skininfoshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SELECT * FROM `yw_user_info`  [ RunTime:0.4370s ]
+NOTIC: [8] Undefined variable: where E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 71 Ë°å.
+SQL: SELECT * FROM `yw_skin_data`  [ RunTime:0.0770s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\802afedb73c4083769ec4f9232726bd5.php Á¨¨ 19 Ë°å.
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\802afedb73c4083769ec4f9232726bd5.php Á¨¨ 20 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php:125) E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\View.class.php Á¨¨ 91 Ë°å.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php:125) E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\View.class.php Á¨¨ 92 Ë°å.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php:125) E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\View.class.php Á¨¨ 93 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:09:15+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skininfoshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SELECT * FROM `yw_user_info`  [ RunTime:0.2440s ]
+NOTIC: [8] Undefined variable: where E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 71 Ë°å.
+SQL: SELECT * FROM `yw_skin_data`  [ RunTime:0.4740s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\802afedb73c4083769ec4f9232726bd5.php Á¨¨ 19 Ë°å.
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Runtime\Cache\Home\802afedb73c4083769ec4f9232726bd5.php Á¨¨ 20 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php:125) E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\View.class.php Á¨¨ 91 Ë°å.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php:125) E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\View.class.php Á¨¨ 92 Ë°å.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php:125) E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\View.class.php Á¨¨ 93 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-20T21:09:39+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/userinfoupdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.135008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.135008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:09:39+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Public/css/css.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Public
+
+[ 2017-02-20T21:09:48+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/userinfoupdata?YW_User_ID=1&tablename=yw_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Think\Controller:uploadimgÊñπÊ≥ï‰∏çÂ≠òÂú®ÔºÅ
+
+[ 2017-02-20T21:10:45+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/userinfoupdata?YW_User_ID=1&tablename=yw_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 204 Ë°å.
+NOTIC: [8] Undefined index: YW_User_HeadPic E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 212 Ë°å.
+NOTIC: [8] Undefined index: error E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Upload.class.php Á¨¨ 269 Ë°å.
+NOTIC: [8] Undefined index: tmp_name E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Upload.class.php Á¨¨ 280 Ë°å.
+SQL: SELECT * FROM `yw_user_info` WHERE ( YW_User_ID=1 )  [ RunTime:0.0310s ]
+NOTIC: [8] Undefined variable: data E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 150 Ë°å.
+NOTIC: [8] Undefined variable: userinfo E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 153 Ë°å.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:10:45+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Public/css/css.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Public
+
+[ 2017-02-20T21:10:53+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/userinfoupdata?YW_User_ID=1&tablename=yw_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Upload.class.php Á¨¨ 170 Ë°å.
+SQL: SELECT * FROM `yw_user_info` WHERE ( YW_User_ID=1 )  [ RunTime:0.0510s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_HeadPic`='58aaeadc63094.jpg' WHERE ( YW_User_ID=1 ) [ RunTime:0.0910s ]
+SQL: SELECT * FROM `yw_user_info` WHERE ( YW_User_ID=1 )  [ RunTime:0.0460s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Sex`='3123' WHERE ( YW_User_ID=1 ) [ RunTime:0.0430s ]
+NOTIC: [8] Undefined variable: userinfo E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 153 Ë°å.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:10:53+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Public/css/css.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Public
+
+[ 2017-02-20T21:13:11+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/userinfoupdata?YW_User_ID=1&tablename=yw_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Upload.class.php Á¨¨ 170 Ë°å.
+SQL: SELECT * FROM `yw_user_info` WHERE ( YW_User_ID=1 )  [ RunTime:0.0240s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_HeadPic`='58aaeb670bb2d.jpg' WHERE ( YW_User_ID=1 ) [ RunTime:0.0330s ]
+SQL: SELECT * FROM `yw_user_info` WHERE ( YW_User_ID=1 )  [ RunTime:0.0180s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Sex`='23123' WHERE ( YW_User_ID=1 ) [ RunTime:0.0200s ]
+NOTIC: [8] Undefined variable: userinfo E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 153 Ë°å.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:13:11+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Public/css/css.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Public
+
+[ 2017-02-20T21:13:57+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/staffinfoupdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:13:57+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Public/css/css.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Public
+
+[ 2017-02-20T21:14:05+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/staffinfoupdata?YW_Staff_ID=1&tablename=yw_staff_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `yw_staff_info` [ RunTime:0.0430s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Upload.class.php Á¨¨ 170 Ë°å.
+SQL: SELECT * FROM `yw_staff_info` WHERE ( YW_Staff_ID=1 )  [ RunTime:0.0300s ]
+SQL: UPDATE `yw_staff_info` SET `YW_Staff_HeadPic`='58aaeb9d5a56e.jpg' WHERE ( YW_Staff_ID=1 ) [ RunTime:0.0760s ]
+SQL: SELECT * FROM `yw_staff_info` WHERE ( YW_Staff_ID=1 )  [ RunTime:0.0820s ]
+SQL: UPDATE `yw_staff_info` SET `YW_Staff_Name`='123123' WHERE ( YW_Staff_ID=1 ) [ RunTime:0.0480s ]
+NOTIC: [8] Undefined variable: userinfo E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 181 Ë°å.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:14:05+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Public/css/css.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Public
+
+[ 2017-02-20T21:42:13+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/staffinfoupdata?YW_Staff_ID=1&tablename=yw_staff_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Upload.class.php Á¨¨ 170 Ë°å.
+SQL: SELECT * FROM `yw_staff_info` WHERE ( YW_Staff_ID=1 )  [ RunTime:0.0290s ]
+SQL: UPDATE `yw_staff_info` SET `YW_Staff_HeadPic`='58aaf234adb75.jpg' WHERE ( YW_Staff_ID=1 ) [ RunTime:0.0350s ]
+SQL: SELECT * FROM `yw_staff_info` WHERE ( YW_Staff_ID=1 )  [ RunTime:0.0360s ]
+SQL: UPDATE `yw_staff_info` SET `YW_Staff_Name`='123123' WHERE ( YW_Staff_ID=1 ) [ RunTime:0.0310s ]
+NOTIC: [8] Undefined variable: userinfo E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 181 Ë°å.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-20T21:42:13+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Public/css/css.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Public
+
+[ 2017-02-20T21:42:17+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skintype
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:42:17+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Public/css/css.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Public
+
+[ 2017-02-20T21:42:23+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skintype?YW_User_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: info E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 269 Ë°å.
+NOTIC: [8] Undefined variable: fieldname E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 269 Ë°å.
+NOTIC: [8] Array to string conversion E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 270 Ë°å.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:42:23+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Public/css/css.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Public
+
+[ 2017-02-20T21:43:37+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skintype?YW_User_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: info E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 269 Ë°å.
+NOTIC: [8] Undefined variable: fieldname E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 269 Ë°å.
+NOTIC: [8] Array to string conversion E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 270 Ë°å.
+NOTIC: [8] Undefined index: yw_user_info E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 1003 Ë°å.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-20T21:43:38+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Public/css/css.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Public
+
+[ 2017-02-20T21:43:46+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skintype
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-20T21:43:47+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Public/css/css.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Public
+
+[ 2017-02-20T21:43:51+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skintype?YW_User_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: info E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 269 Ë°å.
+NOTIC: [8] Undefined variable: fieldname E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 269 Ë°å.
+NOTIC: [8] Array to string conversion E:\WWW\php\thinkphp_3.2.3_full\Application\Home\Controller\UserinfoController.class.php Á¨¨ 270 Ë°å.
+NOTIC: [8] Undefined index: yw_user_info E:\WWW\php\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 1003 Ë°å.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-20T21:43:51+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Public/css/css.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Public
+
+[ 2017-02-20T21:48:53+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skintype?YW_User_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='1,0,1,0,',`YW_User_Skin_Condition`='0,0,1,1,' WHERE ( YW_User_ID=1 ) [ RunTime:0.0460s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:48:53+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Public/css/css.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Public
+
+[ 2017-02-20T21:49:27+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Userinfo/skintype?YW_User_ID=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: UPDATE `yw_user_info` SET `YW_User_Skin_Type`='1,0,1,0,',`YW_User_Skin_Condition`='0,0,1,1,' WHERE ( YW_User_ID=1 ) [ RunTime:0.2370s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-20T21:49:27+08:00 ] 127.0.0.1 /php/thinkphp_3.2.3_full/index.php/Home/Public/css/css.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Êó†Ê≥ïÂä†ËΩΩÊéßÂà∂Âô®:Public
+

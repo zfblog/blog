@@ -1,0 +1,110 @@
+body{
+	margin:0; padding:0;
+	background:#fafafa;
+	}
+.quan{
+	background:#FFF;}
+.dingbu{
+	width:100%;
+	height:15px;
+	background:#019e97;
+	}
+.top_biao{
+	width:100%;
+	height:50px;
+	background:#019e97;
+	color:#fff;
+	font-size:30px;
+	}
+.top_fanhui{
+	float:left;
+	font-size:36px;
+	}
+.top_biaoti{
+	text-align:center;
+	position:relative;
+	top:15px;
+	}
+.touxiang{
+	width:90%;
+	height:70px;
+	margin:0 auto;
+	line-height:50px;
+	border-bottom:1px solid #999;
+	margin-top:10px;
+	background:#FFF;
+	}
+.touxiang_touxiang{
+	float:left;
+	}
+.touxiang_tu{
+	width:50px;
+	height:50px;
+	margin-left:20%;
+	position:relative;
+	top:5px;
+	border:1px solid #666;
+	border-radius:50%;}
+.tongyi{
+	width:90%;
+	height:50px;
+	border-bottom:1px solid #ccc;
+	margin:0 auto;
+	line-height:50px;
+	background:#FFF;
+	}
+.tongyi_san{
+	float:left;}
+.tongyi_xinxi{	
+	margin-left:25%;
+	color:#999;}
+	
+/*擅长项目*/
+.xiangmu_fuhao{
+	float:left;
+	margin-left:95%;
+	margin-top:-30px;
+	font-size:36px;	
+	color:#ccc;
+	}
+.xiangmu_xinxi{
+	margin-left:40%;
+	color:#999;
+	line-height:40px;
+	}
+
+.xiangmu{
+	width:90%;
+	height:50px;
+	margin:0 auto;
+	background:#FFF;
+	}
+.xiangmu_shangchang{
+	margin-top:10px;
+	float:left;
+	}
+.jixiao_fuhao{
+	
+	margin-left:95%;
+	margin-top:0px;
+	font-size:36px;	
+	color:#ccc;
+	}
+.jixiao{
+	width:90%;
+	height:50px;
+	margin:0 auto;
+	margin-top:20px;
+	background:#fff;
+	}
+.jixiao:active{
+	width:90%;
+	height:50px;
+	margin:0 auto;
+	margin-top:20px;
+	background:#ccc;
+	}
+.jixiao_chakan{
+	margin-top:10px;
+	float:left;
+	}

@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,inital-scale=1" />
+<title>美容院相关信息</title>
+<link  type="text/css" href="__PUBLIC__/css/meirongxinxi.css" rel="stylesheet" />
+</head>
+
+<body>
+ <div class="dingbu"></div>
+  <div class="top_biao">
+   <div class="top_fanhui"><</div>
+   <div class="top_biaoti">美容院相关信息</div>
+  </div>
+  <div class="meirong">
+    <div class="meirongxiangmu">美容项目</div>
+    <div class="meironggunwen">美容顾问</div>
+    
+  </div>
+  
+  <div class="chenhao">
+ <foreach name='list' item='vo'>
+    <div class="guwen">
+    <div class="guwen_mingchen">{$vo.yw_staff_name}</div>
+    <div class="guwen_haoma">{$vo.yw_staff_phonen}</div>
+    <div class="guwen_fuhao">></div>
+    </div>
+</foreach>
+<!--     <div class="guwen">    
+    <div class="guwen_mingchen">$do.yw_staff_name}</div>
+    <div class="guwen_haoma">do.yw_staff_phonen}</div>
+    <div class="guwen_fuhao">></div>
+    </div>
+
+    <div class="guwen">
+    <div class="guwen_mingchen">do.yw_staff_name}</div>
+    <div class="guwen_haoma">do.yw_staff_phonen}</div>
+    <div class="guwen_fuhao">></div>    
+    </div> -->
+
+  </div><!--对应chenhao-->
+</body>
+</html>

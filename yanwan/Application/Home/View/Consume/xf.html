@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="__PUBLIC__/css/xf.css" />
+		<link rel="stylesheet" href="__PUBLIC__/css/xf1.css" />
+		<script src="__PUBLIC__/js/jquery-2.2.4.min.js" ></script>
+	</head>
+	<body>
+		<div class="xf">
+		<div class="xf1" style="width: 7rem; height: 1.5rem; background-color: lightseagreen;">
+			<div class="xf2">
+				<a href="#"><</a></div>
+			<div class="xf3" align="center">员工管理</div>
+			<div style="clear:both"></div>
+		</div>
+		<div class="xf4">
+			<div class="xf5">本月共完成<a class="a_value" href="#"></a>单</div>
+			<div class="xf6">总计<a class="a_value_2" href="#"></a>人</div>
+		</div>
+			<div class="xf7" id="xf7" >
+				<input type="hidden" class="staff_id"  />
+				<input type="hidden" class="user_id"  />
+				<a class="name_value" href="#"></a>
+			</div>
+		</div>
+	</body>
+	<script>
+	$(document).ready(function(){
+		$.ajax({
+			type: "get",
+			url: "http://123.207.37.160/yanwan/index.php/Home/Consume/staff_info",
+			dataType: 'jsonp',
+			jsonp: "jsoncallback",
+			success: function(data) {
+				$(".a_value").html(data.consume_count);
+				$(".a_value_2").html(data.staff_count);
+				var staff_name_len = data.staff_name.length;
+				for(var i = 0;i<staff_name_len;i++){
+					if(i== 0){
+						$(".staff_id").eq(i).val(data.staff_name[i]["yw_staffinfo_id"]);
+						$(".user_id").eq(i).val(data.staff_name[i]["yw_staff_id"]);
+						$(".name_value").eq(i).html(data.staff_name[i]["yw_staff_name"]);
+					}
+					if(i>0){
+						$("#xf7").clone(true).appendTo(".xf");
+						$(".staff_id").eq(i).val(data.staff_name[i]["yw_staffinfo_id"]);
+						$(".user_id").eq(i).val(data.staff_name[i]["yw_staff_id"]);
+						$(".name_value").eq(i).html(data.staff_name[i]["yw_staff_name"]);
+					}
+				}
+			},
+			error: function(XMLHttpRequest, textStatus, errorThrown) {
+				alert("数据加载失败");
+				alert(XMLHttpRequest.status);
+				alert(XMLHttpRequest.readyState);
+				alert(textStatus);
+				alert(XMLHttpRequest.responseText);
+	
+			}
+		});
+	});
+			
+	</script>
+</html>

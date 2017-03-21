@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0;}
+body{position:relative; font-family:"Open Sans","Source Han Sans","黑体-简", "微软雅黑", "宋体"; background-color: #ebebeb;}
+a{width:100%; height:100%; border:none; text-decoration: none; color: inherit;}
+img{width:100%; height:auto; border:none;}
+ul, ol, li { list-style: none; }
+.clear{clear:both; overflow:hidden; height:0; font-size:0; line-height:0;}
+
+
+body{
+	background-image: url(../img/yw_login_img.png);
+	background-size: 100% auto;
+	font-size: 0.18rem;
+	color: #FFFFFF;
+	letter-spacing: 0.018rem;
+}
+.head_portrait{
+	width: 1.2rem;
+	height: 1.2rem;
+	background-image:url(../img/yw_login_img_03.png);
+	background-size:100%;
+	margin: 0 auto;
+	margin-top: 1.53rem;
+	
+	
+}
+#massegin{
+	font-size: 0.15rem;
+	color: red;
+	letter-spacing: 0.018rem;
+	margin-left:2.55rem;
+	margin-top: 1rem;
+}
+.user_name,.user_password{
+	width: 90%;
+	height: 0.36rem;
+	margin-top: 0.7rem;
+	margin-left: 5%;
+	border-bottom: 1px solid #ffffff;
+	float: left;
+}
+.user_name_img,.user_password_img{
+	width: 0.24rem;
+	height: 0.27rem;
+	margin-left: 0.12rem;
+	margin-top:0.04rem;
+	background-image:url(../img/yw_login_img_07.png);
+	background-size:100%;
+	float: left;
+}
+.user_password_img{
+	background-image:url(../img/yw_login_img_10.png);
+}
+.user_name_text,.user_password_text{
+	width: 0.6rem;
+	height: 0.27rem;
+	margin-left: 0.12rem;
+	margin-top:0.03rem;
+	float: left;
+}
+#name_input,#password_input{
+	width:75%;
+	height: 0.27rem;
+	font-size: 0.15rem;
+	color: #333333;
+	letter-spacing: 0.018rem;
+	border: none;
+	background-color: transparent;
+	margin-left: 0.12rem;
+	margin-top: 0.05rem;
+	float: left;
+}
+.user_password{
+	margin-top: 0.48rem;
+}
+.login_button{
+	width: 90%;
+	height: 0.59rem;
+	font-size: 0.216rem;
+	margin-top: 0.6rem;
+	margin-left: 5%;
+	text-align: center;
+	line-height: 0.59rem;
+	letter-spacing: 0.144rem;
+	border:1px solid #FFFFFF;
+	border-radius:0.06rem;
+	-moz-border-radius:0.06rem;
+	float: left;
+}
+.operation_password{
+	width: 90%;
+	height: 0.36rem;
+	margin-top: 0.18rem;
+	margin-left: 5%;
+	float: left;
+}
+.forget_password,.update_password{
+	width: 1.1rem;
+	height: 0.36rem;
+	text-align: center;
+	line-height: 0.36rem;
+	float: left;
+}
+.update_password{
+	float: right;
+}
+.update_password a,.forget_password a{
+	width: 100%;
+	height: 100%;
+}

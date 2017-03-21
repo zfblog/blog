@@ -1,0 +1,18 @@
+[ 2017-02-16T09:14:53+08:00 ] 127.0.0.1 /php/thinkphp/Application/Home/View/index/__PUBLIC__/js/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2017-02-16T09:15:10+08:00 ] 127.0.0.1 /php/thinkphp/Application/Home/View/index/__PUBLIC__/js/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Application
+
+[ 2017-02-16T12:12:51+08:00 ] ::1 /php/thinkphp/Application/Home/View/Index/__PUBLIC__/js/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+

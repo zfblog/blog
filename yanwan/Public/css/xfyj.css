@@ -1,0 +1,172 @@
+.xf{
+	width: 100%;
+	overflow: hidden;
+}
+.xf1{
+	width: 100%;
+	background-color: lightseagreen;
+	height: 1.7rem;
+}
+.xf2 a {
+	display: block;
+	width: 0.1rem;
+	height: 0.3rem;
+	text-decoration: none;
+	color: #FFFFFF;
+	padding-top: 0.5rem;
+	padding: 0.5rem;
+	font-size: 0.5rem;
+	float: left;
+}
+
+.xf3 {
+	width: 100%;
+	float: left;
+	margin-left: 1.5rem;
+	margin-top: 0.7rem;
+	height: 1rem;
+	width: 2rem;
+	color: #FFFFFF;
+	font-size: 0.3rem;
+}
+.xf4{
+	width: 100%;
+	height: 1.7rem;
+	background-color: #FFFFFF;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-bottom: 1px solid #666666;
+}
+.xf5{
+	float: left;
+	width: 1.5rem;
+	height: 1.5rem;
+}
+.xf5 a img{
+	width: 0.9rem;
+	height: 0.9rem;
+	border-radius: 50%;
+	text-decoration: none;
+	margin-top: 0.4rem;
+	margin-left: 0.3rem;
+}
+.xf6{
+	width: 1rem;
+	height: 0.3rem;
+	font-size: 0.3rem;
+	color: #333333;
+	margin-left: 1.5rem;
+	padding-top: 0.4rem;
+}
+.xf7{
+	width: 1.2rem;
+	height: 0.5rem;
+	font-size: 0.2rem;
+	color: #666666;
+	margin-left: 1.5rem;
+	margin-top: 0.2rem;
+}
+.xf8{
+	width: 100%;
+	height: 1rem;
+	background-color: #FFFFFF;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-bottom: 1px solid #666666;
+	font-size: 0.3rem;
+	color: #666666;
+}
+.xf8a{
+	float: left;
+	padding-top: 0.3rem;
+	padding-left: 0.3rem;
+}
+.xf8 input{
+	float: left;
+	width: 50%;
+	height: 0.5rem;
+	margin-top:0.2rem;
+	margin-left: 0.3rem;
+	font-size: 0.2rem;
+	color: #999999;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-bottom: none;
+}
+.xf9{
+	width: 100%;
+	height: 1rem;
+	background-color: #FFFFFF;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-bottom: 1px solid #666666;
+	font-size: 0.3rem;
+	color: #666666;
+}
+.xf9a{
+	float: left;
+	padding-top: 0.3rem;
+	padding-left: 0.3rem;
+}
+.xf9 input{
+	float: left;
+	width: 50%;
+	height: 0.5rem;
+	margin-top:0.2rem;
+	margin-left: 0.3rem;
+	font-size: 0.2rem;
+	color: #999999;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-bottom: none;
+}
+.xf10{
+	width: 100%;
+	height: 1rem;
+	background-color: #FFFFFF;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-bottom: 1px solid #666666;
+	font-size: 0.3rem;
+	color: #666666;
+}
+.xf10a{
+	float: left;
+	padding-top: 0.3rem;
+	padding-left: 0.3rem;
+}
+.xf10 input{
+	float: left;
+	width: 50%;
+	height: 0.5rem;
+    margin-top:0.2rem;
+	margin-left: 0.3rem;
+	font-size: 0.2rem;
+	color: #999999;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-bottom: none;
+}
+.xf11{
+	width:100%;
+	position:fixed;
+	bottom:0;
+	left:0;
+}
+.xf11 input{
+	width: 100%;
+	height:1rem;
+	position:fixed;
+	bottom:0;
+	left:0;
+	background-color: lightseagreen;
+	font-size: 0.3rem;
+	color: #FFFFFF;
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,inital-scale=1" />
+<title>个人信息——顾问</title>
+<link type="text/css" rel="stylesheet" href="__PUBLIC__/css/gerenxinxi.css" />
+</head>
+
+<body>
+<div class="quan">
+ <div class="dingbu"></div>
+  <div class="top_biao">
+   <div class="top_fanhui"><</div>
+   <div class="top_biaoti">个人信息</div>
+  </div>
+ 
+  <div class="touxiang"> 
+  <div class="touxiang_touxiang">头像</div>
+  <div class="touxiang_dian">{$list.yw_staff_headpic}
+  <input class="touxiang_tu" type="file" > 
+  </div>
+     
+  </div>
+  <div class="tongyi"> 
+    <div class="tongyi_san">姓名</div>
+    <input class="tongyi_xinxi" type="text" value="{$list.yw_staff_name}"><!--姓名-->    
+  </div>
+  <div class="tongyi"> 
+    <div class="tongyi_san">手机号</div>
+    <input type="text" class="tongyi_xinxi" value="{$list.yw_staff_phonen}"><!--手机号-->    
+  </div>
+  <div class="tongyi"> 
+  <div class="tongyi_san">个人简介</div>
+    <input type="text" class="tongyi_xinxi" value="{$list.yw_staff_intro}"><!--个人简历-->   
+  </div>
+  <div class="tongyi"> 
+    <div class="tongyi_san">工作年限</div>
+    <input type="text" class="tongyi_xinxi"value="{$list.yw_staff_workingage}"><!--工作年限-->    
+  </div>
+
+    
+  <div class="xiangmu">    
+    <div class="tongyi_san" value="{$list.yw_staff_goods_project}">擅长项目</div>
+    <input type="text" class="tongyi_xinxi">
+  </div>
+</div><!--对应class类quan-->
+ 
+<div class="quan"><!--quan-->
+  <div class="jixiao">    
+    <div class="jixiao_chakan">查看绩效</div>
+</div><!---quan-->
+  </div> 
+</body>
+<script type="text/javascript">
+
+
+</script>
+</html>

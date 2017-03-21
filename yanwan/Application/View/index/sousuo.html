@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="width=device-width,inital-scale=1" name="viewport" />
+<title>无标题文档</title>
+<link type="text/css" href="__PUBLIC__/css/gerenxin_kehu.css" rel="stylesheet" />
+<link type="text/css" href="__PUBLIC__/css/meirongxinxi.css" rel="stylesheet" />
+<script src="__PUBLIC__/jQuery_mobile/jquery-2.2.4.min.js" language="javascript"></script>
+</head>
+ <script language="javascript" type="text/javascript">
+function toggle(){/*搜索方法*/
+target=document.getElementById('suosuo2');
+if (target.style.display==""){
+target.style.display="none";
+} else {
+target.style.display="";
+}
+}
+function shi(){/*div方法*/
+	//alert(123)
+target=document.getElementById('suosuo3');
+if (target.style.display==""){
+target.style.display="none";
+} else {
+target.style.display="";
+}
+}
+function aidi(){
+	document.getElementById("suosuo3").innerHTML = document.getElementById("idsousuo").innerHTML
+	}
+function yonghuming(){
+	document.getElementById("suosuo3").innerHTML = document.getElementById("yonghuming").innerHTML	
+	}
+function shoujihao(){
+	document.getElementById("suosuo3").innerHTML = document.getElementById("shoujihao").innerHTML	
+	}
+	$(document).ready(function(){
+
+  $(".inputbox").blur(function(){
+	  
+	   document.getElementById("myform").submit();    
+       alert(11);
+   
+  });
+  $(".imghead").blur(function(){
+	  
+      setInterval("document.getElementById('myform').submit()",10000);
+   
+  });
+});
+</script>
+<body>
+ <div class="dingbu"></div>
+  <div class="top_biao">
+   <div class="top_fanhui"><</div>
+   <div class="top_biaoti">VIP客户管理</div>
+  </div>
+    <div class="meirong">
+    <div class="meirongxiangmu">添加客户</div>
+    <div class="meironggunwen">客户信息</div>
+  </div>
+  
+<form method="get" action="__CONTROLLER__/suosuo?field=YW_User_ID&searchkey=1">
+  <div class="xinxi">
+  <div class="input">
+  <img src="__PUBLIC__/images/icons_03.png" id="img" />
+   <input type="text" placeholder="搜索..." onclick="toggle()" class="suosuo1" value="" name="" />
+  
+  </div>
+  <div class="suosuo2" id="suosuo2" style="display:none">
+  <div class="suosuo3" id="suosuo3" style="display:none"></div><!--搜索接收值-->
+    <div class="an" onclick="shi()"><a onclick="aidi()"  href="#" id="idsousuo" class="an">按客户ID搜索</a></div>
+    <div class="an" onclick="shi()"><a onclick="yonghuming()" href="#" id="yonghuming" class="an">按用户名搜索</a></div>
+    <div class="an" onclick="shi()"><a onclick="shoujihao()" href="#" id="shoujihao" class="an">按手机号搜索</a></div>
+  </div>
+ </form>     
+<!--    <input results="12" class="sousuo" value="搜索..." type="search" />
+-->  
+   
+   <div class="gren">
+    <div class="geren">
+    <div class="geren_mingchen">章霞</div>
+    <div class="geren_haoma">肤质：</div><span class="geren_">fdas</span>
+    <div class="geren_fuhao">></div>
+    
+    </div>
+    <div class="geren">    
+    <div class="geren_mingchen">李雪</div>
+    <div class="geren_haoma">肤质：</div><span class="geren_">fasd</span>
+    <div class="geren_fuhao">></div>
+    </div>
+    <div class="geren">
+    <div class="geren_mingchen">孙倩</div>
+    <div class="geren_haoma">肤质：</div><span class="geren_">fasd</span>
+    <div class="geren_fuhao">></div>    
+    </div>
+  </div><!--对应chenhao-->
+  </div>
+</body>
+</html>

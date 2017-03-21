@@ -1,0 +1,1 @@
+a:5:{i:0;s:17:"YW_UserConsume_ID";i:1;s:19:"YW_UserConsume_Time";i:2;s:13:"YW_Staff_Name";i:3;s:15:"YW_Project_Name";s:5:"_type";a:4:{s:17:"YW_UserConsume_ID";s:7:"int(11)";s:19:"YW_UserConsume_Time";s:9:"timestamp";s:13:"YW_Staff_Name";s:11:"varchar(10)";s:15:"YW_Project_Name";s:11:"varchar(50)";}}
